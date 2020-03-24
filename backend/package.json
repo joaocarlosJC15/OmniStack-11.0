@@ -1,0 +1,12 @@
+{
+  "name": "OmniStack-11.0",
+  "version": "1.0.0",
+  "description": "Week OmniStack-11.0",
+  "main": "index.js",
+  "repository": "https://github.com/joaocarlosJC15/OmniStack-11.0.git",
+  "author": "João Carlos Alvim <jc15joaocarlos@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
